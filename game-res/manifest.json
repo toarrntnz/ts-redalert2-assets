@@ -1,0 +1,379 @@
+{
+ "version": 2,
+ "layout": "opfs-tree",
+ "description": "Red Alert 2 assets extracted from the Red-Alert-2-Multiplayer (XWIS) copy and processed by the same import pipeline, exactly matching a manual copy import result (OPFS tree).",
+ "files": [
+  {
+   "path": "glsl.png",
+   "size": 549052
+  },
+  {
+   "path": "language.mix",
+   "size": 53116040
+  },
+  {
+   "path": "multi.mix",
+   "size": 25856283
+  },
+  {
+   "path": "ra2.mix",
+   "size": 281895456
+  },
+  {
+   "path": "ra2ts_l.webm",
+   "size": 2620700
+  },
+  {
+   "path": "Taunts/tauam01.wav",
+   "size": 28808
+  },
+  {
+   "path": "Taunts/tauam02.wav",
+   "size": 31880
+  },
+  {
+   "path": "Taunts/tauam03.wav",
+   "size": 40072
+  },
+  {
+   "path": "Taunts/tauam04.wav",
+   "size": 24712
+  },
+  {
+   "path": "Taunts/tauam05.wav",
+   "size": 48776
+  },
+  {
+   "path": "Taunts/tauam06.wav",
+   "size": 30344
+  },
+  {
+   "path": "Taunts/tauam07.wav",
+   "size": 25224
+  },
+  {
+   "path": "Taunts/tauam08.wav",
+   "size": 27272
+  },
+  {
+   "path": "Taunts/taubr01.wav",
+   "size": 20540
+  },
+  {
+   "path": "Taunts/taubr02.wav",
+   "size": 20540
+  },
+  {
+   "path": "Taunts/taubr03.wav",
+   "size": 27196
+  },
+  {
+   "path": "Taunts/taubr04.wav",
+   "size": 38460
+  },
+  {
+   "path": "Taunts/taubr05.wav",
+   "size": 35388
+  },
+  {
+   "path": "Taunts/taubr06.wav",
+   "size": 13372
+  },
+  {
+   "path": "Taunts/taubr07.wav",
+   "size": 22588
+  },
+  {
+   "path": "Taunts/taubr08.wav",
+   "size": 22588
+  },
+  {
+   "path": "Taunts/taucu01.wav",
+   "size": 16444
+  },
+  {
+   "path": "Taunts/taucu02.wav",
+   "size": 14908
+  },
+  {
+   "path": "Taunts/taucu03.wav",
+   "size": 12348
+  },
+  {
+   "path": "Taunts/taucu04.wav",
+   "size": 28220
+  },
+  {
+   "path": "Taunts/taucu05.wav",
+   "size": 10300
+  },
+  {
+   "path": "Taunts/taucu06.wav",
+   "size": 15420
+  },
+  {
+   "path": "Taunts/taucu07.wav",
+   "size": 23100
+  },
+  {
+   "path": "Taunts/taucu08.wav",
+   "size": 23100
+  },
+  {
+   "path": "Taunts/taufr01.wav",
+   "size": 12348
+  },
+  {
+   "path": "Taunts/taufr02.wav",
+   "size": 19004
+  },
+  {
+   "path": "Taunts/taufr03.wav",
+   "size": 31804
+  },
+  {
+   "path": "Taunts/taufr04.wav",
+   "size": 23612
+  },
+  {
+   "path": "Taunts/taufr05.wav",
+   "size": 44604
+  },
+  {
+   "path": "Taunts/taufr06.wav",
+   "size": 23176
+  },
+  {
+   "path": "Taunts/taufr07.wav",
+   "size": 26172
+  },
+  {
+   "path": "Taunts/taufr08.wav",
+   "size": 31292
+  },
+  {
+   "path": "Taunts/tauge01.wav",
+   "size": 22588
+  },
+  {
+   "path": "Taunts/tauge02.wav",
+   "size": 26684
+  },
+  {
+   "path": "Taunts/tauge03.wav",
+   "size": 41020
+  },
+  {
+   "path": "Taunts/tauge04.wav",
+   "size": 45116
+  },
+  {
+   "path": "Taunts/tauge05.wav",
+   "size": 32828
+  },
+  {
+   "path": "Taunts/tauge06.wav",
+   "size": 24124
+  },
+  {
+   "path": "Taunts/tauge07.wav",
+   "size": 20028
+  },
+  {
+   "path": "Taunts/tauge08.wav",
+   "size": 20028
+  },
+  {
+   "path": "Taunts/tauir01.wav",
+   "size": 35900
+  },
+  {
+   "path": "Taunts/tauir02.wav",
+   "size": 13884
+  },
+  {
+   "path": "Taunts/tauir03.wav",
+   "size": 34364
+  },
+  {
+   "path": "Taunts/tauir04.wav",
+   "size": 41532
+  },
+  {
+   "path": "Taunts/tauir05.wav",
+   "size": 44604
+  },
+  {
+   "path": "Taunts/tauir06.wav",
+   "size": 13884
+  },
+  {
+   "path": "Taunts/tauir07.wav",
+   "size": 20540
+  },
+  {
+   "path": "Taunts/tauir08.wav",
+   "size": 56380
+  },
+  {
+   "path": "Taunts/tauko01.wav",
+   "size": 23688
+  },
+  {
+   "path": "Taunts/tauko02.wav",
+   "size": 30856
+  },
+  {
+   "path": "Taunts/tauko03.wav",
+   "size": 29832
+  },
+  {
+   "path": "Taunts/tauko04.wav",
+   "size": 36488
+  },
+  {
+   "path": "Taunts/tauko05.wav",
+   "size": 26760
+  },
+  {
+   "path": "Taunts/tauko06.wav",
+   "size": 23688
+  },
+  {
+   "path": "Taunts/tauko07.wav",
+   "size": 20616
+  },
+  {
+   "path": "Taunts/tauko08.wav",
+   "size": 17032
+  },
+  {
+   "path": "Taunts/tauli01.wav",
+   "size": 20028
+  },
+  {
+   "path": "Taunts/tauli02.wav",
+   "size": 19516
+  },
+  {
+   "path": "Taunts/tauli03.wav",
+   "size": 20028
+  },
+  {
+   "path": "Taunts/tauli04.wav",
+   "size": 36924
+  },
+  {
+   "path": "Taunts/tauli05.wav",
+   "size": 36412
+  },
+  {
+   "path": "Taunts/tauli06.wav",
+   "size": 19004
+  },
+  {
+   "path": "Taunts/tauli07.wav",
+   "size": 43068
+  },
+  {
+   "path": "Taunts/tauli08.wav",
+   "size": 29756
+  },
+  {
+   "path": "Taunts/tauru01.wav",
+   "size": 27196
+  },
+  {
+   "path": "Taunts/tauru02.wav",
+   "size": 30780
+  },
+  {
+   "path": "Taunts/tauru03.wav",
+   "size": 34364
+  },
+  {
+   "path": "Taunts/tauru04.wav",
+   "size": 33852
+  },
+  {
+   "path": "Taunts/tauru05.wav",
+   "size": 47676
+  },
+  {
+   "path": "Taunts/tauru06.wav",
+   "size": 54332
+  },
+  {
+   "path": "Taunts/tauru07.wav",
+   "size": 32828
+  },
+  {
+   "path": "Taunts/tauru08.wav",
+   "size": 41532
+  },
+  {
+   "path": "music/200meter.mp3",
+   "size": 3059238
+  },
+  {
+   "path": "music/blowitup.mp3",
+   "size": 1911728
+  },
+  {
+   "path": "music/burn.mp3",
+   "size": 2593419
+  },
+  {
+   "path": "music/destroy.mp3",
+   "size": 2754942
+  },
+  {
+   "path": "music/eaglehun.mp3",
+   "size": 2690577
+  },
+  {
+   "path": "music/fortific.mp3",
+   "size": 2625845
+  },
+  {
+   "path": "music/grinder.mp3",
+   "size": 1332064
+  },
+  {
+   "path": "music/hm2.mp3",
+   "size": 2220672
+  },
+  {
+   "path": "music/indeep.mp3",
+   "size": 2091931
+  },
+  {
+   "path": "music/industro.mp3",
+   "size": 2069719
+  },
+  {
+   "path": "music/jank.mp3",
+   "size": 2329692
+  },
+  {
+   "path": "music/motorize.mp3",
+   "size": 2660926
+  },
+  {
+   "path": "music/power.mp3",
+   "size": 2443388
+  },
+  {
+   "path": "music/ra2-opt.mp3",
+   "size": 1773105
+  },
+  {
+   "path": "music/ra2-sco.mp3",
+   "size": 669015
+  },
+  {
+   "path": "music/tension.mp3",
+   "size": 2401752
+  }
+ ]
+}

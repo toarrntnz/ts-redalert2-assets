@@ -1,45 +1,41 @@
 # RA2Web Assets
 
-Public asset mirror used by the **RA2Web Desktop** build.
+Public game-resource repository for the RA2Web desktop package.
 
-- Desktop source code repository (private): `ts-redalert2-desktop`
-- Release: [assets-v1](../../releases/tag/assets-v1)
-- Release asset: `game-res.tar`
-- Integrity file: `game-res.sha256`
+## Contents
 
-## What is inside
+- `game-res/` — game resources used by the desktop build.
+- `game-res/ra2.mix.part00 ...` — `ra2.mix` is split because GitHub rejects single files larger than 100 MB.
+- All other resource files are stored under their original names.
+- Release `assets-v1` also provides a packaged `game-res.tar` for convenience.
 
-`game-res.tar` contains only the game resources required by the desktop package:
+This repository contains game resources only. It does not contain application source code,
+configuration files, user data, replays, or logs.
 
-```text
-game-res/
-├── ra2.mix
-├── language.mix
-├── multi.mix
-├── Taunts/
-├── music/
-├── glsl.png
-├── ra2ts_l.webm
-└── manifest.json
+## Rebuild `ra2.mix`
+
+GitHub's 100 MB per-file limit prevents committing the original 269 MB `ra2.mix`.
+After cloning, run one of these scripts from the repository root to rebuild it:
+
+```bash
+./join-game-res.sh
 ```
 
-Safety/audit note:
+```powershell
+.\join-game-res.ps1
+```
 
-- No source code, launcher config, user data, replay files, build logs, tokens, passwords, private keys, or local paths.
-- No `.md` files are included inside `game-res.tar`.
-- The archive is generated from the game resource directory only.
+Then `game-res/ra2.mix` will be usable by the desktop build.
 
-## Copyright / risk notice
+## Copyright / DMCA notice
 
-The game assets in this repository are **not open source**. They are the property of their respective rights holders, including **Electronic Arts Inc. (EA)**.
+The game assets are **not open source**. They are the property of their respective rights
+holders, including **Electronic Arts Inc. (EA)**. Public redistribution may infringe
+copyright and may be subject to **DMCA takedown**.
 
-Public redistribution of these files may infringe copyright and may be subject to **DMCA takedown**.
-
-This mirror is provided **only for fan research and non-commercial use**, with no warranty and no affiliation with EA.
-
-Please read **[NOTICE.md](NOTICE.md)** before downloading or redistributing anything.
+They are provided for fan research and non-commercial use only. See **[NOTICE.md](NOTICE.md)**.
 
 ## License
 
-Repository documentation/metadata is licensed under MIT; this **does not apply to the game assets**.
-See **[LICENSE](LICENSE)** and **[NOTICE.md](NOTICE.md)** for the exact scope.
+Repository documentation and metadata are MIT-licensed. The MIT license does **not** apply
+to any game asset. See **[LICENSE](LICENSE)** and **[NOTICE.md](NOTICE.md)**.
