@@ -42,4 +42,4 @@ Please read **[NOTICE.md](NOTICE.md)** before downloading or redistributing anyt
 ## License
 
 Repository documentation/metadata is licensed under MIT; this **does not apply to the game assets**.
-See **[LICENSE](LICENSE)** and **[NOTICE.md](NOTICE.md)**.
+See **[LICENSE](LICENSE)** and **[NOTICE.md](NOTICE.md)** for the exact scope.

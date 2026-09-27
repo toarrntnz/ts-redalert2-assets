@@ -19,27 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-ASSET EXCEPTION / 素材排除条款
-
-The MIT license above applies ONLY to repository documentation and metadata
-(for example README.md, NOTICE.md, and this LICENSE file).
-
-It does NOT apply to any game asset, including but not limited to:
-
-  game-res/*
-  game-res/ra2.mix
-  game-res/language.mix
-  game-res/multi.mix
-  game-res/Taunts/*
-  game-res/music/*
-  game-res/glsl.png
-  game-res/ra2ts_l.webm
-  game-res/manifest.json
-  any archive, EXE, installer, or package containing the above
-
-Game assets remain the property of their respective rights holders, including
-Electronic Arts Inc. No license is granted for game assets. Public
-redistribution is provided only for fan research / non-commercial use and may
-be subject to DMCA takedown. See NOTICE.md.

@@ -45,3 +45,11 @@ This repository is provided only for:
 
 It must not be sold, re-licensed, bundled into paid products, used to host commercial game
 services, or distributed as if it were original/authorized content.
+
+## 6. License scope
+
+The MIT license in this repository applies only to repository documentation and metadata
+(for example `README.md`, `NOTICE.md`, and `LICENSE`).
+
+It does **not** apply to any game asset, release archive, installer, or packaged application
+containing game assets. See sections 1–5 above.
